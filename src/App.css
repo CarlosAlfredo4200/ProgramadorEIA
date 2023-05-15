@@ -13,7 +13,7 @@ h3{
   background-color: #61dafb;
 }
 .contenedor-semana{
-   
+  margin-top: 5px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;

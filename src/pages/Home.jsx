@@ -1,8 +1,9 @@
 import React from 'react'
-
+import ComponenteEjemplo from './Base'
+ 
 const Home = () => {
   return (
-    <div>Desde Home</div>
+    <div><ComponenteEjemplo/></div>
   )
 }
 
